@@ -45,7 +45,7 @@ DEBUG = os.environ.get("DEBUG", 'True').lower() in ['true', 'yes', '1']
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "doreroeraymaterio.pythonanywhere.com",  # Your PythonAnywhere domain
+    "ace092.pythonanywhere.com",  # Your PythonAnywhere domain
 ]
 
 # Current DJANGO_ENVIRONMENT
